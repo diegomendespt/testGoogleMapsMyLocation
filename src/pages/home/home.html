@@ -1,0 +1,8 @@
+<ion-content no-bounce>
+  <div id="map"></div>
+  <div class="map-right-btns">
+    <button ion-fab mini icon-only color="light" (click)="toggleMyLocationMarker()">
+      <ion-icon name="md-locate" [color]="myLocationMarker ? 'primary' : ''"></ion-icon>
+    </button>
+  </div>
+</ion-content>

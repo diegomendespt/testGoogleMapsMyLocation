@@ -1,0 +1,11 @@
+{
+	"APPNAME": "testapp",
+	"CURRENTLOCALE": "EN",
+	"FOOTER": {
+		"ROUTES": "Routes",
+		"POIS": "Treasures",
+		"MYLIST": "My List",
+		"FRIENDS": "Friends"
+	},
+	"HOMESEARCHPLACEHOLDER": "Search"
+}
